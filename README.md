@@ -1,5 +1,5 @@
 # PyQt5 GUI for creating TFRecord Files easily!
-This GUI for Tensorflows TFRWriter more comfortable with no need to code each time or pass long paths as commandline arguments.
+This GUI for Tensorflows TFRWriter makes it more comfortable to convert your VOC annotated images to a TFRecord file with no need to code each time or pass long paths as commandline arguments.
 It is fully compatible with Tensorflow >= 2.0 and allows to write all annotations to a .csv file for further use (e.g. YOLO).
 
 ![TFRWriter GUI](/screenshot.png)
